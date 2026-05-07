@@ -1,1 +1,0 @@
-# cs2-observer-ai-trainer
